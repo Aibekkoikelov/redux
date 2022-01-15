@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,kBAAkB,CAAC;EACf,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,qBAAqB;CACpC;;AAED,AAAA,UAAU,CAAC;EACP,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,iBAAiB,CAAC;EACd,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,qBAAqB;CACpC",
+    "sources": [
+        "heroesList/index.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
